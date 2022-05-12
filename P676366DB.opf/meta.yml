@@ -11,3 +11,8 @@ source_metadata:
       parent: Commentaries
 created_at: '2022-03-01T02:24:55.027246'
 last_modified_at: '2022-03-01T02:24:55.027250'
+statistics:
+  total_words: 3029
+  total_non_words: 273
+quality:
+  non_words_ratio: 0.09
